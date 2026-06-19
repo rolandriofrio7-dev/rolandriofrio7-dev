@@ -45,7 +45,7 @@ Five original ExtendScript / JSX ScriptUI panels (30+ one-click tools, an intera
 
 ### How I work with AI
 
-I use Claude Code as an engineering collaborator and i reflect with myself anf other LLMs, but I own the result:
+I use Claude Code as an engineering collaborator and i reflect with myself and other LLMs, but I own the result:
 - I define the product problem, safety boundaries, architecture constraints, and acceptance criteria.
 - Generated code is never assumed correct — each phase is bounded by a file manifest and a stop gate.
 - Every change is reviewed through automated tests, browser walkthroughs, accessibility checks, and Git-diff inspection before it's committed.
