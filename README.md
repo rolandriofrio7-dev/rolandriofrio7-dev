@@ -1,70 +1,81 @@
-<div align="left">
+# Roland Riofrio
 
-<img src="rio-vitals-banner.png" alt="RIO / vitals" width="100%" />
-
-Roland Riofrio
-
-Public-health grad turned software builder. I make small, well-tested tools that solve real workflow problems — mostly in and around healthcare. Bilingual (English / Spanish), based in Houston, TX.
+Public-health grad and paid-media director, now building software. I make small, well-tested tools that solve real workflow problems — mostly in and around healthcare. Bilingual (English / Spanish), based in Houston, TX.
 
 I build with AI as a collaborator, not a crutch: I define the problem, the safety boundaries, and the acceptance criteria, then review every change through tests, diffs, and browser walkthroughs before it ships.
 
+---
 
-A note on my timeline — read this first
+### A note on my timeline — read this first
 
-My public commit history is recent and concentrated. I started building in the open this year and have been going hard in focused bursts, so the contribution graph is short on purpose — I'm early, and I'm not going to pretend otherwise.
-What I'd ask you to look at instead is how the work is built: real test suites, explicit safety boundaries, deterministic logic, and a reviewable commit history broken into small verified milestones rather than one big unreviewed dump. The depth is in the engineering, not the tenure. I'd rather show you honest, tested work from this month than a padded timeline.
+My public commit history is **recent and concentrated** — I'm newer to building software in the open than I am to doing serious work. I came from running paid media professionally (see below) and went deep on engineering this year, in focused bursts. The graph is short on purpose; I'm early, and I'm not going to pretend otherwise.
 
+What I'd ask you to look at instead is *how* the work is built: real test suites, explicit safety boundaries, deterministic logic, and a reviewable commit history broken into small verified milestones rather than one big unreviewed dump. The depth is in the engineering, not the tenure.
 
-What I'm building
+---
 
-IO — Caregiver Coordination System
+### What I'm building
+
+**IO — Caregiver Coordination System**
 A full-stack prototype that helps caregivers make sense of fragmented post-discharge information — organizing care signals, caregiver observations, and an audit history into one reviewable workflow.
+- Python / FastAPI backend with a deterministic state-machine workflow and action-level provenance/audit logging
+- Typed Next.js / React / TypeScript frontend
+- **546 automated tests** (254 backend, 240 component, 52 Playwright end-to-end), plus accessibility, type, lint, and build checks
+- Explicit AI safety boundaries keeping system-generated and caregiver-authored content separate
+- *Synthetic demonstration data only — a prototype, not a clinical product.*
 
-
-Python / FastAPI backend with a deterministic state-machine workflow and action-level provenance/audit logging
-Typed Next.js / React / TypeScript frontend
-546 automated tests (254 backend, 240 component, 52 Playwright end-to-end), plus accessibility, type, lint, and build checks
-Explicit AI safety boundaries keeping system-generated and caregiver-authored content separate
-Synthetic demonstration data only — a prototype, not a clinical product.
-
-
-Recall — Clinic Call-Cadence Tool
+**Recall — Clinic Call-Cadence Tool**
 A deterministic, single-file web tool modeling a real clinic's no-show recovery workflow — it computes each call's due date and status from the appointment date rather than storing it.
+- Zero dependencies; runs by double-click on legacy clinic hardware or as a live GitHub Pages demo
+- Cadence logic covered by an automated test suite
+- *Synthetic demonstration data only.*
 
+**Signal — Ad Diagnostics Tool**
+A fully client-side (no-API) tool that parses campaign CSV exports and flags under-performing campaigns against user-calibrated thresholds — with tolerant, BOM-safe header matching. *In active development.*
 
-Zero dependencies; runs by double-click on legacy clinic hardware or as a live GitHub Pages demo
-Cadence logic covered by an automated test suite
-Synthetic demonstration data only.
-
-
-Signal — Ad Diagnostics Tool
-A fully client-side (no-API) tool that parses campaign CSV exports and flags under-performing campaigns against user-calibrated thresholds — with tolerant, BOM-safe header matching. In active development.
-
-Rio Suite — After Effects Developer Tools
+**Rio Suite — After Effects Developer Tools**
 Five original ExtendScript / JSX ScriptUI panels (30+ one-click tools, an interactive bezier easing editor, procedural HUD generators) with a dockable panel architecture and undo-group wrapping.
 
+---
 
-How I work with AI
+### How I work with AI
 
 I use Claude Code as an engineering collaborator, but I own the result:
+- I define the product problem, safety boundaries, architecture constraints, and acceptance criteria.
+- Generated code is never assumed correct — each phase is bounded by a file manifest and a stop gate.
+- Every change is reviewed through automated tests, browser walkthroughs, accessibility checks, and Git-diff inspection before it's committed.
 
+---
 
-I define the product problem, safety boundaries, architecture constraints, and acceptance criteria.
-Generated code is never assumed correct — each phase is bounded by a file manifest and a stop gate.
-Every change is reviewed through automated tests, browser walkthroughs, accessibility checks, and Git-diff inspection before it's committed.
+### Marketing & leadership
 
+Before and alongside the code, I've run paid media professionally and built my own studio.
 
+**Luxe Media — Paid Media Director** (Oct 2025 – Jul 2026)
+- Ran paid media for high-ticket clients; delivered an 11.25x blended ROAS ($5,759 revenue on $512 spend across 8 ad sets) in week one on a client account.
+- Managed high-ticket client accounts and trained and onboarded new hires on paid-media workflows and reporting.
 
-Stack
+**Rio Studio — Founder** (2025 – Present)
+- Founded and run my own paid media and content-production studio, owning client strategy, campaigns, and creative end-to-end.
+- Built and deployed the studio's responsive site (vanilla HTML/CSS/JS, IntersectionObserver, Cal.com booking, Netlify).
 
-Python · FastAPI · TypeScript · JavaScript · React · Next.js · HTML/CSS · ExtendScript/JSX · Playwright · Git
-Tooling: Claude Code
+Platforms: Meta Ads · TikTok Ads · Google Ads · Shopify · Postscript · SEO
 
-Background
+---
+
+### Stack
+
+`Python` · `FastAPI` · `TypeScript` · `JavaScript` · `React` · `Next.js` · `HTML/CSS` · `ExtendScript/JSX` · `Playwright` · `Git`
+Tooling: `Claude Code`
+
+### Background
 
 B.S. in Public Health, University of Texas at San Antonio. Completed Anthropic's AI Fluency and Claude 101. Currently building toward human-centered healthcare software.
 
-Reach me
+### Reach me
+
+- Email: rolandriofrio7@gmail.com
+- LinkedIn: linkedin.com/in/rolandriofrio
 
 
 Email: rolandriofrio7@gmail.com
