@@ -121,4 +121,3 @@ LinkedIn: linkedin.com/in/rolandriofrio
 
 <div align="center">
 <sub>Full portfolio → <a href="https://rolandrio.org">rolandrio.org</a> · Building from clinical experience · Learning in steps</sub>
-</div>
