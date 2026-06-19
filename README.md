@@ -6,7 +6,7 @@
 
 **Houston, TX · Public Health + Nursing Track · Builder**
 
-I build human-centered tools — most seriously in healthcare. I spent ~300 hours in a behavioral health and transitional care clinic and started building software to help close the gaps I saw there.
+I got in love with making real tools that help us care for others. I spent 300 hours in a behavioral health and transitional care clinic and started building software to help close the gaps I saw there .
 
 ![Status](https://img.shields.io/badge/status-building-2f9e6e)
 ![Location](https://img.shields.io/badge/location-Houston%2C%20TX-1b1c19)
