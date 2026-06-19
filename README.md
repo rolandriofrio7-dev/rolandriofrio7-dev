@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="rio-vitals-banner.png
-  " alt="RIO / vitals" width="100%" />
+<img src="rio-vitals-banner.png" alt="RIO / vitals" width="100%" />
 
 # Hi, I'm Roland 👋
 
