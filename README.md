@@ -2,32 +2,77 @@
 
 <img src="rio-vitals-banner.png" alt="RIO / vitals" width="100%" />
 
-# Hi, I'm Roland 👋
+Roland Riofrio
 
-**Houston, TX · Public Health + Nursing Track · Builder**
+Public-health grad turned software builder. I make small, well-tested tools that solve real workflow problems — mostly in and around healthcare. Bilingual (English / Spanish), based in Houston, TX.
 
-I got in love with making real tools that help us care for others. I spent 300 hours in a behavioral health and transitional care clinic and started building software to help close the gaps I saw there .
-
-![Status](https://img.shields.io/badge/status-building-2f9e6e)
-![Location](https://img.shields.io/badge/location-Houston%2C%20TX-1b1c19)
-![Focus](https://img.shields.io/badge/focus-health%20%2B%20AI%20%2B%20dev-a73918)
-[![Portfolio](https://img.shields.io/badge/portfolio-rolandrio.org-2f9e6e)](https://rolandrio.org)
-[![Email](https://img.shields.io/badge/email-gmail-a73918?logo=gmail&logoColor=white)](mailto:rolandriofrio7@gmail.com)
-
-</div>
-
----
-
-## 🩺 Flagship — IO
-
-**[IO — Caregiver Coordination](https://github.com/rolandriofrio7-dev/care-command-center)**
-A non-diagnostic caregiver coordination prototype built from real clinical experience. Tracks whether care-plan tasks happened on time, surfaces drift, and keeps a human in charge of every judgment.
-Python/FastAPI · Next.js/React/TypeScript · 546 automated tests · synthetic-only, non-diagnostic by design.
+I build with AI as a collaborator, not a crutch: I define the problem, the safety boundaries, and the acceptance criteria, then review every change through tests, diffs, and browser walkthroughs before it ships.
 
 
+A note on my timeline — read this first
+
+My public commit history is recent and concentrated. I started building in the open this year and have been going hard in focused bursts, so the contribution graph is short on purpose — I'm early, and I'm not going to pretend otherwise.
+
+What I'd ask you to look at instead is how the work is built: real test suites, explicit safety boundaries, deterministic logic, and a reviewable commit history broken into small verified milestones rather than one big unreviewed dump. The depth is in the engineering, not the tenure. I'd rather show you honest, tested work from this month than a padded timeline.
+
+
+What I'm building
+
+IO — Caregiver Coordination System
+A full-stack prototype that helps caregivers make sense of fragmented post-discharge information — organizing care signals, caregiver observations, and an audit history into one reviewable workflow.
+
+
+Python / FastAPI backend with a deterministic state-machine workflow and action-level provenance/audit logging
+Typed Next.js / React / TypeScript frontend
+546 automated tests (254 backend, 240 component, 52 Playwright end-to-end), plus accessibility, type, lint, and build checks
+Explicit AI safety boundaries keeping system-generated and caregiver-authored content separate
+Synthetic demonstration data only — a prototype, not a clinical product.
+
+
+Recall — Clinic Call-Cadence Tool
+A deterministic, single-file web tool modeling a real clinic's no-show recovery workflow — it computes each call's due date and status from the appointment date rather than storing it.
+
+
+Zero dependencies; runs by double-click on legacy clinic hardware or as a live GitHub Pages demo
+Cadence logic covered by an automated test suite
+Synthetic demonstration data only.
+
+
+Signal — Ad Diagnostics Tool
+A fully client-side (no-API) tool that parses campaign CSV exports and flags under-performing campaigns against user-calibrated thresholds — with tolerant, BOM-safe header matching. In active development.
+
+Rio Suite — After Effects Developer Tools
+Five original ExtendScript / JSX ScriptUI panels (30+ one-click tools, an interactive bezier easing editor, procedural HUD generators) with a dockable panel architecture and undo-group wrapping.
+
+
+How I work with AI
+
+I use Claude Code as an engineering collaborator, but I own the result:
+
+
+I define the product problem, safety boundaries, architecture constraints, and acceptance criteria.
+Generated code is never assumed correct — each phase is bounded by a file manifest and a stop gate.
+Every change is reviewed through automated tests, browser walkthroughs, accessibility checks, and Git-diff inspection before it's committed.
+
+
+
+Stack
+
+Python · FastAPI · TypeScript · JavaScript · React · Next.js · HTML/CSS · ExtendScript/JSX · Playwright · Git
+Tooling: Claude Code
+
+Background
+
+B.S. in Public Health, University of Texas at San Antonio. Completed Anthropic's AI Fluency and Claude 101. Currently building toward human-centered healthcare software.
+
+Reach me
+
+
+Email: rolandriofrio7@gmail.com
+LinkedIn: linkedin.com/in/rolandriofrio
 ## 🛠️ Skills
 
-**Languages**
+**Languages** **Prompt Engineered*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -71,15 +116,7 @@ Python/FastAPI · Next.js/React/TypeScript · 546 automated tests · synthetic-o
 
 ## 🧩 What I build
 
-`Care-coordination software (IO)` · `After Effects panels (Rio Suite)` · `Ad & revenue dashboards (Signal)` · `Conversion-focused websites` · `Paid media & funnels` · `Brand films & content` · `Streetwear brand (STRANDED)`
-
----
-
-## 🎓 Education
-
-**The University of Texas at San Antonio**
-B.S. Public Health · San Antonio, TX · 2026
-
+`Care-coordination software ` ·  · `Clinical assisting tools` · `Paid media & marketing funnels` · `Brand films & tools for Editing Platforms` · `
 ---
 
 <div align="center">
