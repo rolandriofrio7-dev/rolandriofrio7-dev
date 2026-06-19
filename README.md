@@ -1,4 +1,9 @@
-# Roland Riofrio
+<div align="left">
+
+<img src="rio-vitals-banner.png" alt="RIO / vitals" width="100%" />
+
+# Hi, I'm Roland 👋
+
 
 Public-health grad and paid-media director, now building software. I make small, well-tested tools that solve real workflow problems — mostly in and around healthcare. Bilingual (English / Spanish), based in Houston, TX.
 
@@ -14,7 +19,7 @@ What I'd ask you to look at instead is *how* the work is built: real test suites
 
 ---
 
-### What I'm building
+### What I'm building and learning through prompt engineering
 
 **IO — Caregiver Coordination System**
 A full-stack prototype that helps caregivers make sense of fragmented post-discharge information — organizing care signals, caregiver observations, and an audit history into one reviewable workflow.
@@ -40,7 +45,7 @@ Five original ExtendScript / JSX ScriptUI panels (30+ one-click tools, an intera
 
 ### How I work with AI
 
-I use Claude Code as an engineering collaborator, but I own the result:
+I use Claude Code as an engineering collaborator and i reflect with myself anf other LLMs, but I own the result:
 - I define the product problem, safety boundaries, architecture constraints, and acceptance criteria.
 - Generated code is never assumed correct — each phase is bounded by a file manifest and a stop gate.
 - Every change is reviewed through automated tests, browser walkthroughs, accessibility checks, and Git-diff inspection before it's committed.
