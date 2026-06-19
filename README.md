@@ -2,9 +2,6 @@
 
 <img src="rio-vitals-banner.png" alt="RIO / vitals" width="100%" />
 
-
-<div align="center">
-
 # Hi, I'm Roland 👋
 
 **Houston, TX · Public Health + Nursing Track · Building human-centered tools**
@@ -14,7 +11,7 @@
 
 </div>
 
-
+---
 
 ## Why I build
 
@@ -33,7 +30,7 @@ A non-diagnostic caregiver coordination prototype built from real clinical exper
 - 546 automated tests (backend, component, end-to-end)
 - Synthetic-only, non-diagnostic by design — built in small, verified steps with explicit approval gates
 
-
+---
 
 ## 🎬 Rio Suite — After Effects Developer Tools
 
@@ -44,7 +41,7 @@ Five original ScriptUI panels I scoped, directed, and debugged in live After Eff
 - **Rio FUI** — procedural HUD/FUI element generator with looping expressions
 - Thousands of lines of original ExtendScript, real debugging cycles, consistent design system
 
-
+---
 
 ## 📸 Rio Studio — Creative Direction & Paid Media
 
@@ -53,7 +50,7 @@ Five original ScriptUI panels I scoped, directed, and debugged in live After Eff
 - Real client work and a real paid-media result: 11.25× blended ROAS on a fashion client's first week
 - Cal.com booking integration, full pricing/service architecture
 
-
+---
 
 ## 🌱 About me
 
@@ -62,7 +59,7 @@ Five original ScriptUI panels I scoped, directed, and debugged in live After Eff
 - 🗣️ Bilingual — English & Spanish
 - 🛠️ Building with: Python, FastAPI, React, TypeScript, Git, and a lot of stubbornness
 
-
+---
 
 <div align="center">
 <sub>Building from clinical experience. Non-diagnostic by design. Learning in steps.</sub>
