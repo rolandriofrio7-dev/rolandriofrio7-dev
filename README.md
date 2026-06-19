@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="rio-vitals-banner.png" alt="RIO / vitals" width="100%" />
+
+
+<div align="center">
+
 # Hi, I'm Roland 👋
 
 **Houston, TX · Public Health + Nursing Track · Building human-centered tools**
