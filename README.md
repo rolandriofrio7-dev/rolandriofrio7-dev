@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="rio-vitals-banner.png" alt="RIO / vitals" width="100%" />
 
@@ -12,7 +12,6 @@ I build with AI as a collaborator, not a crutch: I define the problem, the safet
 A note on my timeline — read this first
 
 My public commit history is recent and concentrated. I started building in the open this year and have been going hard in focused bursts, so the contribution graph is short on purpose — I'm early, and I'm not going to pretend otherwise.
-
 What I'd ask you to look at instead is how the work is built: real test suites, explicit safety boundaries, deterministic logic, and a reviewable commit history broken into small verified milestones rather than one big unreviewed dump. The depth is in the engineering, not the tenure. I'd rather show you honest, tested work from this month than a padded timeline.
 
 
@@ -119,5 +118,5 @@ LinkedIn: linkedin.com/in/rolandriofrio
 `Care-coordination software ` ·  · `Clinical assisting tools` · `Paid media & marketing funnels` · `Brand films & tools for Editing Platforms` · `
 ---
 
-<div align="center">
+<div align="left">
 <sub>Full portfolio → <a href="https://rolandrio.org">rolandrio.org</a> · Building from clinical experience · Learning in steps</sub>
