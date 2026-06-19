@@ -17,6 +17,8 @@ My public commit history is **recent and concentrated** — I'm newer to buildin
 
 What I'd ask you to look at instead is *how* the work is built: real test suites, explicit safety boundaries, deterministic logic, and a reviewable commit history broken into small verified milestones rather than one big unreviewed dump. The depth is in the engineering, not the tenure.
 
+portfolio → <a href="https://rolandrio.org">rolandrio.org</a>
+
 ---
 
 ### What I'm building and learning through prompt engineering
