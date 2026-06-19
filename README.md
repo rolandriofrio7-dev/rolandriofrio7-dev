@@ -8,9 +8,11 @@
 
 I build human-centered tools — most seriously in healthcare. I spent ~300 hours in a behavioral health and transitional care clinic and started building software to help close the gaps I saw there.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rolandrio.org-2f9e6e)](https://rolandrio.org)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rolandriofrio7-dev)
-[![Email](https://img.shields.io/badge/Email-a73918?logo=gmail&logoColor=white)](mailto:rolandriofrio7@gmail.com)
+![Status](https://img.shields.io/badge/status-building-2f9e6e)
+![Location](https://img.shields.io/badge/location-Houston%2C%20TX-1b1c19)
+![Focus](https://img.shields.io/badge/focus-health%20%2B%20AI%20%2B%20dev-a73918)
+[![Portfolio](https://img.shields.io/badge/portfolio-rolandrio.org-2f9e6e)](https://rolandrio.org)
+[![Email](https://img.shields.io/badge/email-gmail-a73918?logo=gmail&logoColor=white)](mailto:rolandriofrio7@gmail.com)
 
 </div>
 
