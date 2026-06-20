@@ -5,7 +5,7 @@
 # Hi, I'm Roland 👋
 
 
-New Public-health grad and paid-media director, now building software. I make small, well-tested tools that solve real workflow problems that are mostly in and around healthcare. Based in TX.
+Im a hispanic Public-health grad now building software. I use my clinical experience to make small, well-tested tools that solve real workflow problems that are mostly in and around healthcare. Based in TX.
 
 I build with AI as a collaborator so that together we can bring the real solutions to the crucial issues we face in health care while adhering to my values, the safety boundaries, and the acceptance criteria, then review every change through tests, diffs, and browser walkthroughs before it ships.
 
