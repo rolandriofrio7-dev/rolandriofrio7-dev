@@ -13,7 +13,7 @@ I build with AI as a collaborator so that together we can bring the real solutio
 
 ### A note on my timeline — read this first
 
-My public commit history is **recent and concentrated** — I'm newer to building software in the open than I am to doing serious work. I came from running paid media professionally (see below) and went deep on engineering this year, in focused bursts. The graph is short on purpose; I'm early, and I'm not going to pretend otherwise.
+My public commit history is recent and concentrayed. I'm actually newer to building software in the open than I am to doing serious high ticket work following SOP's. I came from running paid media professionally (see below) and went deep on engineering this year, in focused bursts. The graph is short on purpose; I'm early, and I'm not going to pretend otherwise.
 
 What I'd ask you to look at instead is *how* the work is built: real test suites, explicit safety boundaries, deterministic logic, and a reviewable commit history broken into small verified milestones rather than one big unreviewed dump. The depth is in the engineering, not the tenure.
 
