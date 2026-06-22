@@ -70,11 +70,6 @@ Platforms: Meta Ads · TikTok Ads · Google Ads · Shopify · Postscript · SEO
 
 ---
 
-### Stack
-
-`Python` · `FastAPI` · `TypeScript` · `JavaScript` · `React` · `Next.js` · `HTML/CSS` · `ExtendScript/JSX` · `Playwright` · `Git`
-Tooling: `Claude Code`
-
 ### Background
 
 B.S. in Public Health, University of Texas at San Antonio. Completed Anthropic's AI Fluency and Claude 101. Currently building toward human-centered healthcare software.
@@ -85,11 +80,9 @@ B.S. in Public Health, University of Texas at San Antonio. Completed Anthropic's
 - LinkedIn: linkedin.com/in/rolandriofrio
 
 
-Email: rolandriofrio7@gmail.com
-LinkedIn: linkedin.com/in/rolandriofrio
 ## 🛠️ Skills
 
-**Languages** **Prompt Engineered*
+**Languages** 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -131,10 +124,6 @@ LinkedIn: linkedin.com/in/rolandriofrio
 
 ---
 
-## 🧩 What I build
-
-`Care-coordination software ` ·  · `Clinical assisting tools` · `Paid media & marketing funnels` · `Brand films & tools for Editing Platforms` · `
----
 
 <div align="left">
-<sub>Full portfolio → <a href="https://rolandrio.org">rolandrio.org</a> · Building from clinical experience · Learning in steps</sub>
+
